@@ -1,0 +1,3436 @@
+[
+    {
+        "user": {
+            "id": 1319627353329405953,
+            "id_str": "1319627353329405953",
+            "name": "Positive Call | Mindset Coach",
+            "screen_name": "Positive_Call",
+            "location": "CALL Papers \u2192",
+            "profile_location": null,
+            "description": "\"The Calling Guy\" | Insights on human capital, online business, and personal growth. I help people master their mindset to build their business.",
+            "url": "http:\/\/calling.substack.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/calling.substack.com",
+                            "expanded_url": "http:\/\/calling.substack.com",
+                            "display_url": "calling.substack.com",
+                            "indices": [
+                                0,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 232245,
+            "fast_followers_count": 0,
+            "normal_followers_count": 232245,
+            "friends_count": 159,
+            "listed_count": 923,
+            "created_at": "Fri Oct 23 13:11:04 +0000 2020",
+            "favourites_count": 28089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3821,
+            "media_count": 0,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1365156722189418496\/hpoDk3gz_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1365156722189418496\/hpoDk3gz_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1319627353329405953\/1628088811",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1513139259187896328
+            ],
+            "pinned_tweet_ids_str": [
+                "1513139259187896328"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1319627353329405953"
+    },
+    {
+        "user": {
+            "id": 1292909315255197697,
+            "id_str": "1292909315255197697",
+            "name": "Jasa turunkan plagiasi",
+            "screen_name": "catatanindahns",
+            "location": "\ud83c\uddf2\ud83c\udde8",
+            "profile_location": null,
+            "description": "@ruangambis_id | Parafase, turunkan plagiarisme & cek turnitin \ud83d\udc49 https:\/\/t.co\/j9DvlEk2jQ",
+            "url": "https:\/\/instagram.com\/catatanindahns?utm_medium=copy_link",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/instagram.com\/catatanindahns?utm_medium=copy_link",
+                            "expanded_url": "https:\/\/instagram.com\/catatanindahns?utm_medium=copy_link",
+                            "display_url": "instagram.com\/catatanindahns\u2026",
+                            "indices": [
+                                0,
+                                57
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/j9DvlEk2jQ",
+                            "expanded_url": "https:\/\/twitter.com\/catatanindahns\/status\/1499274537342758913?t=osQm_0xLQQzAx6Xz9cSTqA&s=19",
+                            "display_url": "twitter.com\/catatanindahns\u2026",
+                            "indices": [
+                                65,
+                                88
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 58066,
+            "fast_followers_count": 0,
+            "normal_followers_count": 58066,
+            "friends_count": 293,
+            "listed_count": 217,
+            "created_at": "Mon Aug 10 19:43:12 +0000 2020",
+            "favourites_count": 3701,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5570,
+            "media_count": 1044,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1507394416046387206\/GDVIis60_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1507394416046387206\/GDVIis60_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1292909315255197697\/1647793550",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1427109962669387780
+            ],
+            "pinned_tweet_ids_str": [
+                "1427109962669387780"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1292909315255197697"
+    },
+    {
+        "user": {
+            "id": 1243051382879461377,
+            "id_str": "1243051382879461377",
+            "name": "Rumah Sufi",
+            "screen_name": "RumahSufi",
+            "location": "Delma island ",
+            "profile_location": null,
+            "description": "Rumah yang serba ada | Jalaludin Rumi| Imam Ghazali | Ibnu Arabi | Imam Syafi\u2019i | Sayyidina Ali Bin Abi Thalib | Ibnu Sina | Puisi | lover sky & Rain |dll",
+            "url": "https:\/\/www.instagram.com\/RumahSufi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.instagram.com\/RumahSufi",
+                            "expanded_url": "https:\/\/www.instagram.com\/RumahSufi",
+                            "display_url": "instagram.com\/RumahSufi",
+                            "indices": [
+                                0,
+                                35
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 88067,
+            "fast_followers_count": 0,
+            "normal_followers_count": 88067,
+            "friends_count": 79,
+            "listed_count": 85,
+            "created_at": "Thu Mar 26 05:45:49 +0000 2020",
+            "favourites_count": 4528,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2399,
+            "media_count": 526,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1387132826680713219\/Xtk5XA7K_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1387132826680713219\/Xtk5XA7K_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1243051382879461377\/1619577069",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1291436764167577601
+            ],
+            "pinned_tweet_ids_str": [
+                "1291436764167577601"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1243051382879461377"
+    },
+    {
+        "user": {
+            "id": 85536744,
+            "id_str": "85536744",
+            "name": "TITI DJ",
+            "screen_name": "ti2dj",
+            "location": null,
+            "profile_location": null,
+            "description": "TDJ Management : Windy +62 812 13167167",
+            "url": "https:\/\/www.netra.link\/to-lose",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.netra.link\/to-lose",
+                            "expanded_url": "https:\/\/www.netra.link\/to-lose",
+                            "display_url": "netra.link\/to-lose",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2172710,
+            "fast_followers_count": 0,
+            "normal_followers_count": 2172710,
+            "friends_count": 452,
+            "listed_count": 1916,
+            "created_at": "Tue Oct 27 09:48:09 +0000 2009",
+            "favourites_count": 133,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47001,
+            "media_count": 2072,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1508068524824358917\/IKw5maDJ_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1508068524824358917\/IKw5maDJ_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/85536744\/1648386624",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "85536744"
+    },
+    {
+        "user": {
+            "id": 1299606533764837383,
+            "id_str": "1299606533764837383",
+            "name": "Si Paling Belajar",
+            "screen_name": "myskill_id",
+            "location": null,
+            "profile_location": null,
+            "description": "Mengcapek kuliah. Mengsambat kerja. I Chat bebas via DM utk dipost | E-learning, Bootcamp bersertifikat, Mentoring karir \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f",
+            "url": "http:\/\/myskill.id\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/myskill.id\/",
+                            "expanded_url": "http:\/\/myskill.id\/",
+                            "display_url": "myskill.id",
+                            "indices": [
+                                0,
+                                18
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 236469,
+            "fast_followers_count": 0,
+            "normal_followers_count": 236469,
+            "friends_count": 77,
+            "listed_count": 559,
+            "created_at": "Sat Aug 29 07:15:28 +0000 2020",
+            "favourites_count": 617,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5868,
+            "media_count": 1925,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1477259728858193921\/8cGO6fo8_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1477259728858193921\/8cGO6fo8_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1299606533764837383\/1648013052",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1507962087238094850
+            ],
+            "pinned_tweet_ids_str": [
+                "1507962087238094850"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1299606533764837383"
+    },
+    {
+        "user": {
+            "id": 1259415739150356480,
+            "id_str": "1259415739150356480",
+            "name": "Westminster English",
+            "screen_name": "Westminster_Eng",
+            "location": "London, England",
+            "profile_location": null,
+            "description": "Follow us to develop your English language knowledge #LearnEnglish #Englishlanguage  #Englishgrammar #IELTS \ud83d\udcd5FREE e-book\ud83d\udc47\ud83c\udffc",
+            "url": "https:\/\/cutt.ly\/SRLh4wR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/cutt.ly\/SRLh4wR",
+                            "expanded_url": "https:\/\/cutt.ly\/SRLh4wR",
+                            "display_url": "cutt.ly\/SRLh4wR",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 57072,
+            "fast_followers_count": 0,
+            "normal_followers_count": 57072,
+            "friends_count": 65,
+            "listed_count": 330,
+            "created_at": "Sun May 10 09:31:39 +0000 2020",
+            "favourites_count": 24450,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10397,
+            "media_count": 317,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1298593847535177731\/uKoPleT2_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1298593847535177731\/uKoPleT2_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1259415739150356480\/1631730912",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1513718738180321285
+            ],
+            "pinned_tweet_ids_str": [
+                "1513718738180321285"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1259415739150356480"
+    },
+    {
+        "user": {
+            "id": 1158335069745844225,
+            "id_str": "1158335069745844225",
+            "name": "EnglishFest.co.id",
+            "screen_name": "EnglishFestID",
+            "location": "Indonesia",
+            "profile_location": null,
+            "description": "English courses for beginners and intermediate learners.",
+            "url": "https:\/\/www.englishfest.co.id",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.englishfest.co.id",
+                            "expanded_url": "https:\/\/www.englishfest.co.id",
+                            "display_url": "englishfest.co.id",
+                            "indices": [
+                                0,
+                                29
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 213289,
+            "fast_followers_count": 0,
+            "normal_followers_count": 213289,
+            "friends_count": 393,
+            "listed_count": 752,
+            "created_at": "Mon Aug 05 11:12:56 +0000 2019",
+            "favourites_count": 4175,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13991,
+            "media_count": 4179,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1438393619203837953\/V-ZHXcjQ_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1438393619203837953\/V-ZHXcjQ_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1158335069745844225\/1623580133",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1158335069745844225"
+    },
+    {
+        "user": {
+            "id": 884964705021960192,
+            "id_str": "884964705021960192",
+            "name": "English Idioms",
+            "screen_name": "English_idioms9",
+            "location": "London, England",
+            "profile_location": {
+                "id": "457b4814b4240d87",
+                "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/457b4814b4240d87.json",
+                "place_type": "unknown",
+                "name": "London, England",
+                "full_name": "London, England",
+                "country_code": "",
+                "country": "",
+                "contained_within": [],
+                "bounding_box": null,
+                "attributes": {}
+            },
+            "description": "An idiom helps to make our speech more colorful and expressive. They spice up conversation and add beauty to the language.\nProverbs are a part of every culture.",
+            "url": "https:\/\/www.instagram.com\/english_idioms107\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.instagram.com\/english_idioms107\/",
+                            "expanded_url": "https:\/\/www.instagram.com\/english_idioms107\/",
+                            "display_url": "instagram.com\/english_idioms\u2026",
+                            "indices": [
+                                0,
+                                44
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 50517,
+            "fast_followers_count": 0,
+            "normal_followers_count": 50517,
+            "friends_count": 1524,
+            "listed_count": 296,
+            "created_at": "Wed Jul 12 02:36:42 +0000 2017",
+            "favourites_count": 740,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7997,
+            "media_count": 6400,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/885189222369554433\/2HL_K5n1_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/885189222369554433\/2HL_K5n1_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/884964705021960192\/1499880470",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "884964705021960192"
+    },
+    {
+        "user": {
+            "id": 465086578,
+            "id_str": "465086578",
+            "name": "AntriParto",
+            "screen_name": "MyLinguaAcademy",
+            "location": null,
+            "profile_location": null,
+            "description": "Skype English lessons for all ages and all levels of knowledge",
+            "url": "https:\/\/myenglishteacher.co.uk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/myenglishteacher.co.uk",
+                            "expanded_url": "https:\/\/myenglishteacher.co.uk",
+                            "display_url": "myenglishteacher.co.uk",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28824,
+            "fast_followers_count": 0,
+            "normal_followers_count": 28824,
+            "friends_count": 720,
+            "listed_count": 291,
+            "created_at": "Sun Jan 15 23:22:58 +0000 2012",
+            "favourites_count": 1028,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 20102,
+            "media_count": 7317,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DAF0DF",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1461333769038798852\/5MSa9W5H_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1461333769038798852\/5MSa9W5H_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/465086578\/1637568466",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "regular",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "465086578"
+    },
+    {
+        "user": {
+            "id": 52283122,
+            "id_str": "52283122",
+            "name": "Elex Media Komputindo",
+            "screen_name": "elexmedia",
+            "location": "Indonesia",
+            "profile_location": null,
+            "description": "Twitter Resmi Penerbit Elex Media Komputindo",
+            "url": "http:\/\/www.elexmedia.id",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.elexmedia.id",
+                            "expanded_url": "http:\/\/www.elexmedia.id",
+                            "display_url": "elexmedia.id",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 97033,
+            "fast_followers_count": 0,
+            "normal_followers_count": 97033,
+            "friends_count": 691,
+            "listed_count": 374,
+            "created_at": "Tue Jun 30 03:04:36 +0000 2009",
+            "favourites_count": 39352,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 127492,
+            "media_count": 32242,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8F2222",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1211803709341986817\/vmHspGAO_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1211803709341986817\/vmHspGAO_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/52283122\/1649813151",
+            "profile_link_color": "660C0C",
+            "profile_sidebar_border_color": "EBB000",
+            "profile_sidebar_fill_color": "A88E24",
+            "profile_text_color": "3B3301",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1513331325314682881
+            ],
+            "pinned_tweet_ids_str": [
+                "1513331325314682881"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "52283122"
+    },
+    {
+        "user": {
+            "id": 2850578535,
+            "id_str": "2850578535",
+            "name": "Learn English",
+            "screen_name": "EllaLanguage",
+            "location": "Worldwide",
+            "profile_location": null,
+            "description": "Learning #English? You've come to the right place. Tweets on English language learning. #ESL #ingles",
+            "url": "http:\/\/www.ellalanguage.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.ellalanguage.com",
+                            "expanded_url": "http:\/\/www.ellalanguage.com",
+                            "display_url": "ellalanguage.com",
+                            "indices": [
+                                0,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 176551,
+            "fast_followers_count": 0,
+            "normal_followers_count": 176551,
+            "friends_count": 0,
+            "listed_count": 1022,
+            "created_at": "Wed Oct 29 22:37:05 +0000 2014",
+            "favourites_count": 412,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9518,
+            "media_count": 889,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/794835542168969216\/ZhtDOzdP_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/794835542168969216\/ZhtDOzdP_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2850578535\/1528205733",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "2850578535"
+    },
+    {
+        "user": {
+            "id": 1169400892220686337,
+            "id_str": "1169400892220686337",
+            "name": "Ganymede",
+            "screen_name": "ganymedeshouse",
+            "location": null,
+            "profile_location": null,
+            "description": "I am Ganymede an I am 11 years old................ I am the WIDE cat",
+            "url": "https:\/\/www.instagram.com\/ganymedeshouse\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.instagram.com\/ganymedeshouse\/",
+                            "expanded_url": "https:\/\/www.instagram.com\/ganymedeshouse\/",
+                            "display_url": "instagram.com\/ganymedeshouse\/",
+                            "indices": [
+                                0,
+                                41
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22712,
+            "fast_followers_count": 0,
+            "normal_followers_count": 22712,
+            "friends_count": 75,
+            "listed_count": 89,
+            "created_at": "Thu Sep 05 00:04:39 +0000 2019",
+            "favourites_count": 1671,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 997,
+            "media_count": 588,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1169401219045056513\/cacShita_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1169401219045056513\/cacShita_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1169400892220686337\/1631151830",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1501048055352680454
+            ],
+            "pinned_tweet_ids_str": [
+                "1501048055352680454"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1169400892220686337"
+    },
+    {
+        "user": {
+            "id": 37284430,
+            "id_str": "37284430",
+            "name": "A.Word.A.Day",
+            "screen_name": "awad",
+            "location": "Seattle, USA and 171 countries",
+            "profile_location": null,
+            "description": "Celebrating 27 years of https:\/\/t.co\/0kRqMI3UOZ!\n\nWe're a worldwide online community of wordlovers spreading the joy and magic of language A Word A Day.",
+            "url": "https:\/\/wordsmith.org\/awad",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/wordsmith.org\/awad",
+                            "expanded_url": "https:\/\/wordsmith.org\/awad",
+                            "display_url": "wordsmith.org\/awad",
+                            "indices": [
+                                0,
+                                26
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/0kRqMI3UOZ",
+                            "expanded_url": "http:\/\/Wordsmith.org",
+                            "display_url": "Wordsmith.org",
+                            "indices": [
+                                24,
+                                47
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 33654,
+            "fast_followers_count": 0,
+            "normal_followers_count": 33654,
+            "friends_count": 81,
+            "listed_count": 874,
+            "created_at": "Sat May 02 21:14:22 +0000 2009",
+            "favourites_count": 1150,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5590,
+            "media_count": 1655,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1113192465580720128\/gIYSpdzg_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1113192465580720128\/gIYSpdzg_normal.png",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37284430\/1554406725",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1317232595860553728
+            ],
+            "pinned_tweet_ids_str": [
+                "1317232595860553728"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "37284430"
+    },
+    {
+        "user": {
+            "id": 366515736,
+            "id_str": "366515736",
+            "name": "English with Miss Ririn",
+            "screen_name": "hermionyyye",
+            "location": "Potter world",
+            "profile_location": null,
+            "description": "Bismillah\n\ud83c\udf93Lulusan Sastra Inggris\u25aaEnglish Teacher\u25aaPenerjemah & Proofreader\u25aaSharing about Skincare\u25aaMATERI ENGLISH GRATIS TIAP HARI\u25aaTestimoni di link \ud83d\udc47\ud83c\udffc",
+            "url": "https:\/\/linktr.ee\/ririnarnita",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linktr.ee\/ririnarnita",
+                            "expanded_url": "https:\/\/linktr.ee\/ririnarnita",
+                            "display_url": "linktr.ee\/ririnarnita",
+                            "indices": [
+                                0,
+                                29
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 88375,
+            "fast_followers_count": 0,
+            "normal_followers_count": 88375,
+            "friends_count": 1797,
+            "listed_count": 455,
+            "created_at": "Fri Sep 02 09:39:17 +0000 2011",
+            "favourites_count": 81600,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 83665,
+            "media_count": 3401,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ED2881",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1428665150991585287\/dolcyHSY_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1428665150991585287\/dolcyHSY_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/366515736\/1609144191",
+            "profile_link_color": "E6208A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1444670933508055041
+            ],
+            "pinned_tweet_ids_str": [
+                "1444670933508055041"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "366515736"
+    },
+    {
+        "user": {
+            "id": 1115007611714162688,
+            "id_str": "1115007611714162688",
+            "name": "Jeya \u2022 Chill English Facilitator",
+            "screen_name": "sourvive",
+            "location": null,
+            "profile_location": null,
+            "description": "I make fun educational threads! \u2022 I can make a Twitter thread for you \u2022 Poem writer \ud83d\udd8b \u2022 Chill English Facilitator",
+            "url": "https:\/\/linktr.ee\/jeyaa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linktr.ee\/jeyaa",
+                            "expanded_url": "https:\/\/linktr.ee\/jeyaa",
+                            "display_url": "linktr.ee\/jeyaa",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6795,
+            "fast_followers_count": 0,
+            "normal_followers_count": 6795,
+            "friends_count": 546,
+            "listed_count": 34,
+            "created_at": "Sun Apr 07 21:45:05 +0000 2019",
+            "favourites_count": 994,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4837,
+            "media_count": 381,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1508922486427385857\/ij-h5tdo_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1508922486427385857\/ij-h5tdo_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1115007611714162688\/1644071516",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1450762824452489221
+            ],
+            "pinned_tweet_ids_str": [
+                "1450762824452489221"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1115007611714162688"
+    },
+    {
+        "user": {
+            "id": 1244578346488365057,
+            "id_str": "1244578346488365057",
+            "name": "masabu",
+            "screen_name": "bukanabahlala",
+            "location": null,
+            "profile_location": null,
+            "description": "Boleh Berbohong Asal Tuhan Jangan Tau~",
+            "url": null,
+            "entities": {
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 382,
+            "fast_followers_count": 0,
+            "normal_followers_count": 382,
+            "friends_count": 569,
+            "listed_count": 1,
+            "created_at": "Mon Mar 30 10:53:15 +0000 2020",
+            "favourites_count": 4663,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14872,
+            "media_count": 153,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1487132294431543296\/k8TfNG_x_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1487132294431543296\/k8TfNG_x_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1244578346488365057\/1598184107",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1244578346488365057"
+    },
+    {
+        "user": {
+            "id": 1418976138647506954,
+            "id_str": "1418976138647506954",
+            "name": "Inggris Bersama",
+            "screen_name": "inggrisbersama",
+            "location": null,
+            "profile_location": null,
+            "description": "Materi Inggris yang fun ditweet secara rutin! Free karena kita semua berhak untuk belajar. Info kelas gratis di Instagram.  Dm for business inquiries",
+            "url": "https:\/\/linkr.bio\/inggrisbersama",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linkr.bio\/inggrisbersama",
+                            "expanded_url": "https:\/\/linkr.bio\/inggrisbersama",
+                            "display_url": "linkr.bio\/inggrisbersama",
+                            "indices": [
+                                0,
+                                32
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 26088,
+            "fast_followers_count": 0,
+            "normal_followers_count": 26088,
+            "friends_count": 4,
+            "listed_count": 149,
+            "created_at": "Sat Jul 24 16:47:42 +0000 2021",
+            "favourites_count": 145,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 711,
+            "media_count": 84,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1488824143587921924\/8_Wi4AtZ_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1488824143587921924\/8_Wi4AtZ_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1418976138647506954\/1635213753",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1430086739796774916
+            ],
+            "pinned_tweet_ids_str": [
+                "1430086739796774916"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1418976138647506954"
+    },
+    {
+        "user": {
+            "id": 1370625618971226116,
+            "id_str": "1370625618971226116",
+            "name": "ON \u2013 SUBENGLISHFESS",
+            "screen_name": "subenglishfess_",
+            "location": null,
+            "profile_location": null,
+            "description": "USE -eng\/eng! | part of @englishfess_ | Handled by @KripseTan | JASTIP MENFESS CEK LIKE",
+            "url": null,
+            "entities": {
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 61120,
+            "fast_followers_count": 0,
+            "normal_followers_count": 61120,
+            "friends_count": 823,
+            "listed_count": 524,
+            "created_at": "Sat Mar 13 06:40:01 +0000 2021",
+            "favourites_count": 4,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20812,
+            "media_count": 2625,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1380113872552517633\/kLuMc8ls_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1380113872552517633\/kLuMc8ls_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1370625618971226116\/1617879490",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1511278213947064324
+            ],
+            "pinned_tweet_ids_str": [
+                "1511278213947064324"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1370625618971226116"
+    },
+    {
+        "user": {
+            "id": 4829187657,
+            "id_str": "4829187657",
+            "name": "Phrasal Cards",
+            "screen_name": "phrasalcards",
+            "location": null,
+            "profile_location": null,
+            "description": "https:\/\/t.co\/SV2QeAmhlU",
+            "url": "https:\/\/linktr.ee\/phrasalcards",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linktr.ee\/phrasalcards",
+                            "expanded_url": "https:\/\/linktr.ee\/phrasalcards",
+                            "display_url": "linktr.ee\/phrasalcards",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/SV2QeAmhlU",
+                            "expanded_url": "https:\/\/linktr.ee\/phrasalcards",
+                            "display_url": "linktr.ee\/phrasalcards",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 17720,
+            "fast_followers_count": 0,
+            "normal_followers_count": 17720,
+            "friends_count": 1,
+            "listed_count": 229,
+            "created_at": "Wed Jan 20 10:41:13 +0000 2016",
+            "favourites_count": 620,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3214,
+            "media_count": 3203,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/689760722201378816\/xlpqsZtC_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/689760722201378816\/xlpqsZtC_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4829187657\/1499245927",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "4829187657"
+    },
+    {
+        "user": {
+            "id": 589345852,
+            "id_str": "589345852",
+            "name": "College Essay Guy",
+            "screen_name": "CollegeEssayGuy",
+            "location": "Los Angeles, CA",
+            "profile_location": null,
+            "description": "Hi! I'm Ethan Sawyer AKA College Essay Guy. My goal is to bring more ease, purpose, & joy to the college application process. Start your journey here.",
+            "url": "http:\/\/www.collegeessayguy.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.collegeessayguy.com",
+                            "expanded_url": "http:\/\/www.collegeessayguy.com",
+                            "display_url": "collegeessayguy.com",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 32638,
+            "fast_followers_count": 0,
+            "normal_followers_count": 32638,
+            "friends_count": 524,
+            "listed_count": 301,
+            "created_at": "Thu May 24 18:58:33 +0000 2012",
+            "favourites_count": 1055,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 28113,
+            "media_count": 17262,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2450492406\/s7kqjsqwiuo4s2ao5bvd_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2450492406\/s7kqjsqwiuo4s2ao5bvd_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/589345852\/1469500529",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "589345852"
+    },
+    {
+        "user": {
+            "id": 973554540,
+            "id_str": "973554540",
+            "name": "English Grammar",
+            "screen_name": "GrammarUpdates",
+            "location": null,
+            "profile_location": null,
+            "description": "The official Twitter page of https:\/\/t.co\/M8kMZi1UEb - Are you up to date with your English grammar? Follow us now to stay posted!",
+            "url": "http:\/\/www.englishgrammar.org\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.englishgrammar.org\/",
+                            "expanded_url": "http:\/\/www.englishgrammar.org\/",
+                            "display_url": "englishgrammar.org",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/M8kMZi1UEb",
+                            "expanded_url": "http:\/\/englishgrammar.org",
+                            "display_url": "englishgrammar.org",
+                            "indices": [
+                                29,
+                                52
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 179956,
+            "fast_followers_count": 0,
+            "normal_followers_count": 179956,
+            "friends_count": 0,
+            "listed_count": 874,
+            "created_at": "Tue Nov 27 09:18:32 +0000 2012",
+            "favourites_count": 128,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7444,
+            "media_count": 2816,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1478454973688160256\/woxxbkNU_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1478454973688160256\/woxxbkNU_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/973554540\/1511089747",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1510915330813698049
+            ],
+            "pinned_tweet_ids_str": [
+                "1510915330813698049"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "973554540"
+    },
+    {
+        "user": {
+            "id": 1498127012359454720,
+            "id_str": "1498127012359454720",
+            "name": "Yayah",
+            "screen_name": "orang306",
+            "location": null,
+            "profile_location": null,
+            "description": "\ud835\udddc'\ud835\uddfa \ud835\ude00\ud835\ude01\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddf4 \ud835\uddef\ud835\ude02\ud835\ude01 \ud835\udddc'\ud835\uddfa \ud835\ude01\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\uddf1:(\ncuma mau ngebacot aja disini",
+            "url": null,
+            "entities": {
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38,
+            "fast_followers_count": 0,
+            "normal_followers_count": 38,
+            "friends_count": 68,
+            "listed_count": 0,
+            "created_at": "Mon Feb 28 02:45:17 +0000 2022",
+            "favourites_count": 309,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 305,
+            "media_count": 8,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1513475603227615241\/QHzO7Usl_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1513475603227615241\/QHzO7Usl_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1498127012359454720\/1646016896",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1498127012359454720"
+    },
+    {
+        "user": {
+            "id": 1448154319828643843,
+            "id_str": "1448154319828643843",
+            "name": "zeya",
+            "screen_name": "iceluvvrr",
+            "location": "kwangya ",
+            "profile_location": null,
+            "description": "akun random, all in one.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 503,
+            "fast_followers_count": 0,
+            "normal_followers_count": 503,
+            "friends_count": 653,
+            "listed_count": 0,
+            "created_at": "Wed Oct 13 05:11:39 +0000 2021",
+            "favourites_count": 827,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1259,
+            "media_count": 71,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1506804366996488197\/aOqRgQlO_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1506804366996488197\/aOqRgQlO_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1448154319828643843\/1647224663",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1495941262293483521
+            ],
+            "pinned_tweet_ids_str": [
+                "1495941262293483521"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1448154319828643843"
+    },
+    {
+        "user": {
+            "id": 1048802927756922880,
+            "id_str": "1048802927756922880",
+            "name": "The French History Podcast",
+            "screen_name": "FrenchHist",
+            "location": null,
+            "profile_location": null,
+            "description": "A history of France, from 3 million years ago to present. Presented by Dr. @girod_gary. Spotify: https:\/\/t.co\/2dR3rok9TZ",
+            "url": "http:\/\/www.thefrenchhistorypodcast.com\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.thefrenchhistorypodcast.com\/",
+                            "expanded_url": "http:\/\/www.thefrenchhistorypodcast.com\/",
+                            "display_url": "thefrenchhistorypodcast.com",
+                            "indices": [
+                                0,
+                                39
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/2dR3rok9TZ",
+                            "expanded_url": "https:\/\/open.spotify.com\/show\/5cVe5V7UksfeSTkifTxIB0",
+                            "display_url": "open.spotify.com\/show\/5cVe5V7Uk\u2026",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 75304,
+            "fast_followers_count": 0,
+            "normal_followers_count": 75304,
+            "friends_count": 432,
+            "listed_count": 398,
+            "created_at": "Sun Oct 07 05:11:18 +0000 2018",
+            "favourites_count": 13078,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 19071,
+            "media_count": 9251,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1336906360525475843\/mUuoec8B_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1336906360525475843\/mUuoec8B_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1048802927756922880\/1607756532",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1512522008923303936
+            ],
+            "pinned_tweet_ids_str": [
+                "1512522008923303936"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1048802927756922880"
+    },
+    {
+        "user": {
+            "id": 570722200,
+            "id_str": "570722200",
+            "name": "jualbukusastra.com",
+            "screen_name": "Jualbukusastra",
+            "location": "Gg Semangat 150-Wijilan-Jogja",
+            "profile_location": null,
+            "description": "Sebab tak semua buku sastra tersedia di toko buku l  Indie & Terbatas. Order: SMS\/WA ke 0818-0271-7528, BBM: 5A09B80A, sertakan kota tinggal",
+            "url": "https:\/\/linktr.ee\/jualbukusastra",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linktr.ee\/jualbukusastra",
+                            "expanded_url": "https:\/\/linktr.ee\/jualbukusastra",
+                            "display_url": "linktr.ee\/jualbukusastra",
+                            "indices": [
+                                0,
+                                32
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21993,
+            "fast_followers_count": 0,
+            "normal_followers_count": 21993,
+            "friends_count": 7358,
+            "listed_count": 60,
+            "created_at": "Fri May 04 10:34:19 +0000 2012",
+            "favourites_count": 658,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 93051,
+            "media_count": 36019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/912364868489043969\/QMnvGvLS_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/912364868489043969\/QMnvGvLS_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/570722200\/1604414261",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1511748278878359558
+            ],
+            "pinned_tweet_ids_str": [
+                "1511748278878359558"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "570722200"
+    },
+    {
+        "user": {
+            "id": 1271478549770207232,
+            "id_str": "1271478549770207232",
+            "name": "Team Tanpa Les Indonesia\u2728",
+            "screen_name": "ttlindonesia",
+            "location": null,
+            "profile_location": null,
+            "description": "Konsultan Pejuang 2022\n| Menolong para Camaba yang tidak ikut les agar bisa sukses\u2728 \n| Kalau bisa tidak les, kenapa harus les? \n| Video PBM\/PPU cek YouTube :",
+            "url": "http:\/\/s.id\/youtubeTTL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/s.id\/youtubeTTL",
+                            "expanded_url": "http:\/\/s.id\/youtubeTTL",
+                            "display_url": "s.id\/youtubeTTL",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 120435,
+            "fast_followers_count": 0,
+            "normal_followers_count": 120435,
+            "friends_count": 13,
+            "listed_count": 500,
+            "created_at": "Fri Jun 12 16:25:09 +0000 2020",
+            "favourites_count": 426,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2082,
+            "media_count": 437,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1296176688565350400\/_QPtNG2M_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1296176688565350400\/_QPtNG2M_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1271478549770207232\/1597867696",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1320721100511137792
+            ],
+            "pinned_tweet_ids_str": [
+                "1320721100511137792"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1271478549770207232"
+    },
+    {
+        "user": {
+            "id": 32933328,
+            "id_str": "32933328",
+            "name": "Hamza A. Tzortzis",
+            "screen_name": "HATzortzis",
+            "location": "United Kingdom",
+            "profile_location": null,
+            "description": "Author: The Divine Reality: God, Islam & The Mirage of Atheism. MRes, MA & PgCert Philosophy. PhD candidate & educator. Tweets don\u2019t represent any org.",
+            "url": "https:\/\/linktr.ee\/hatzortzis",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/linktr.ee\/hatzortzis",
+                            "expanded_url": "https:\/\/linktr.ee\/hatzortzis",
+                            "display_url": "linktr.ee\/hatzortzis",
+                            "indices": [
+                                0,
+                                28
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 134402,
+            "fast_followers_count": 0,
+            "normal_followers_count": 134402,
+            "friends_count": 969,
+            "listed_count": 364,
+            "created_at": "Sat Apr 18 16:32:20 +0000 2009",
+            "favourites_count": 254,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 9522,
+            "media_count": 839,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1026759120890814464\/4JU_EHBJ_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1026759120890814464\/4JU_EHBJ_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/32933328\/1570617268",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1446373254336294936
+            ],
+            "pinned_tweet_ids_str": [
+                "1446373254336294936"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "32933328"
+    },
+    {
+        "user": {
+            "id": 255021263,
+            "id_str": "255021263",
+            "name": "Logos ID",
+            "screen_name": "logos_id",
+            "location": "Indonesia",
+            "profile_location": null,
+            "description": "Tempat diskusi & edukasi Filsafat, Sosiologi, Sejarah, Pop Culture & Sains. Sejak 20-02-2020",
+            "url": "http:\/\/festival.logosid.xyz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/festival.logosid.xyz",
+                            "expanded_url": "http:\/\/festival.logosid.xyz",
+                            "display_url": "festival.logosid.xyz",
+                            "indices": [
+                                0,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 147270,
+            "fast_followers_count": 0,
+            "normal_followers_count": 147270,
+            "friends_count": 140,
+            "listed_count": 447,
+            "created_at": "Sun Feb 20 14:10:31 +0000 2011",
+            "favourites_count": 132,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8378,
+            "media_count": 1102,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1314433875951513600\/7RrQ5jK0_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1314433875951513600\/7RrQ5jK0_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/255021263\/1597836135",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1282877369917730817
+            ],
+            "pinned_tweet_ids_str": [
+                "1282877369917730817"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "255021263"
+    },
+    {
+        "user": {
+            "id": 257680378,
+            "id_str": "257680378",
+            "name": "\ud835\udc01\ud835\udc2b\ud835\udc1a\ud835\udc1d \ud835\udc09\ud835\udc28\ud835\udc21\ud835\udc27\ud835\udc2c\ud835\udc28\ud835\udc27",
+            "screen_name": "DrBradJohnson",
+            "location": null,
+            "profile_location": null,
+            "description": "One of the most inspiring and informative speakers on education and leadership. Author of several books. Speaking inquires @ https:\/\/t.co\/tlJUn8QlRe",
+            "url": "https:\/\/www.amazon.com\/gp\/product\/0367622211\/ref=dbs_a_def_rwt_bibl_vppi_i7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.amazon.com\/gp\/product\/0367622211\/ref=dbs_a_def_rwt_bibl_vppi_i7",
+                            "expanded_url": "https:\/\/www.amazon.com\/gp\/product\/0367622211\/ref=dbs_a_def_rwt_bibl_vppi_i7",
+                            "display_url": "amazon.com\/gp\/product\/036\u2026",
+                            "indices": [
+                                0,
+                                75
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/tlJUn8QlRe",
+                            "expanded_url": "http:\/\/Doctorbradjohnson.com",
+                            "display_url": "Doctorbradjohnson.com",
+                            "indices": [
+                                125,
+                                148
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 90803,
+            "fast_followers_count": 0,
+            "normal_followers_count": 90803,
+            "friends_count": 9918,
+            "listed_count": 271,
+            "created_at": "Fri Feb 25 23:24:37 +0000 2011",
+            "favourites_count": 83790,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27706,
+            "media_count": 459,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1304780545885429765\/HlomIzyD_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1304780545885429765\/HlomIzyD_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/257680378\/1637697131",
+            "profile_link_color": "8D2111",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1510308542527557635
+            ],
+            "pinned_tweet_ids_str": [
+                "1510308542527557635"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "257680378"
+    },
+    {
+        "user": {
+            "id": 857291268,
+            "id_str": "857291268",
+            "name": "AllThingsLinguistic",
+            "screen_name": "AllThingsLing",
+            "location": null,
+            "profile_location": null,
+            "description": "Assorted interesting things about linguistics by @GretchenAMcC. I also cohost a podcast @lingthusiasm and I'm the author of BECAUSE INTERNET",
+            "url": "http:\/\/allthingslinguistic.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/allthingslinguistic.com",
+                            "expanded_url": "http:\/\/allthingslinguistic.com",
+                            "display_url": "allthingslinguistic.com",
+                            "indices": [
+                                0,
+                                30
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23867,
+            "fast_followers_count": 0,
+            "normal_followers_count": 23867,
+            "friends_count": 11,
+            "listed_count": 419,
+            "created_at": "Tue Oct 02 01:18:41 +0000 2012",
+            "favourites_count": 302,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3247,
+            "media_count": 66,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/750400997206454273\/N0DmrmFi_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/750400997206454273\/N0DmrmFi_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/857291268\/1440302915",
+            "profile_link_color": "1B8161",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1177317411864944641
+            ],
+            "pinned_tweet_ids_str": [
+                "1177317411864944641"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "857291268"
+    },
+    {
+        "user": {
+            "id": 1486349629809893378,
+            "id_str": "1486349629809893378",
+            "name": "Dream\u2601\ufe0e\ufe0e",
+            "screen_name": "dreamncream",
+            "location": null,
+            "profile_location": null,
+            "description": "starting a story",
+            "url": "https:\/\/tellonym.me\/dreamncream",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/tellonym.me\/dreamncream",
+                            "expanded_url": "https:\/\/tellonym.me\/dreamncream",
+                            "display_url": "tellonym.me\/dreamncream",
+                            "indices": [
+                                0,
+                                31
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1383,
+            "fast_followers_count": 0,
+            "normal_followers_count": 1383,
+            "friends_count": 1,
+            "listed_count": 3,
+            "created_at": "Wed Jan 26 14:45:48 +0000 2022",
+            "favourites_count": 23,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "media_count": 11,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1486373885222486016\/sHtlF5en_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1486373885222486016\/sHtlF5en_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1486349629809893378\/1643214303",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1487076998325288960
+            ],
+            "pinned_tweet_ids_str": [
+                "1487076998325288960"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1486349629809893378"
+    },
+    {
+        "user": {
+            "id": 717067922158411777,
+            "id_str": "717067922158411777",
+            "name": "Danny Steele",
+            "screen_name": "SteeleThoughts",
+            "location": "Birmingham, AL",
+            "profile_location": null,
+            "description": "Educator \/ Speaker \/ Author \/ I love students, teachers, school culture, leadership, and public education. That\u2019s what I tweet about.",
+            "url": "http:\/\/www.steelethoughts.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/www.steelethoughts.com",
+                            "expanded_url": "http:\/\/www.steelethoughts.com",
+                            "display_url": "steelethoughts.com",
+                            "indices": [
+                                0,
+                                29
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 118067,
+            "fast_followers_count": 0,
+            "normal_followers_count": 118067,
+            "friends_count": 4183,
+            "listed_count": 601,
+            "created_at": "Mon Apr 04 19:14:49 +0000 2016",
+            "favourites_count": 84816,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 25137,
+            "media_count": 1637,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1155883379096788992\/9DHjnL6T_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1155883379096788992\/9DHjnL6T_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/717067922158411777\/1472396584",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1464961559000723464
+            ],
+            "pinned_tweet_ids_str": [
+                "1464961559000723464"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "717067922158411777"
+    },
+    {
+        "user": {
+            "id": 2368146295,
+            "id_str": "2368146295",
+            "name": "Jalaluddin Rumi",
+            "screen_name": "Ruminstitute",
+            "location": "Jakarta",
+            "profile_location": null,
+            "description": "Saat cinta datang, pena-pena akan patah. ~ Maulana Rumi",
+            "url": "https:\/\/www.instagram.com\/muhnurjabir\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.instagram.com\/muhnurjabir\/",
+                            "expanded_url": "https:\/\/www.instagram.com\/muhnurjabir\/",
+                            "display_url": "instagram.com\/muhnurjabir\/",
+                            "indices": [
+                                0,
+                                38
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 124901,
+            "fast_followers_count": 0,
+            "normal_followers_count": 124901,
+            "friends_count": 1986,
+            "listed_count": 104,
+            "created_at": "Sun Mar 02 03:02:48 +0000 2014",
+            "favourites_count": 1739,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4907,
+            "media_count": 640,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/676781609857646592\/iPQgPQ9r_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/676781609857646592\/iPQgPQ9r_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2368146295\/1578667520",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1512811357946605570
+            ],
+            "pinned_tweet_ids_str": [
+                "1512811357946605570"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "2368146295"
+    },
+    {
+        "user": {
+            "id": 1417434402297057280,
+            "id_str": "1417434402297057280",
+            "name": "Midnight Reading Club",
+            "screen_name": "iniakunmrc",
+            "location": "Indonesia",
+            "profile_location": null,
+            "description": "Setiap Jumat malam 22.00-00.00 WIB | Minowl: @safaracathasa @_iqbalfadhil @ohnojennie @fitrabooktwt @bibliophob @Alice_lizbeth @ainayed",
+            "url": "https:\/\/links.iniwebmrc.com\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/links.iniwebmrc.com\/",
+                            "expanded_url": "https:\/\/links.iniwebmrc.com\/",
+                            "display_url": "links.iniwebmrc.com",
+                            "indices": [
+                                0,
+                                28
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5336,
+            "fast_followers_count": 0,
+            "normal_followers_count": 5336,
+            "friends_count": 91,
+            "listed_count": 44,
+            "created_at": "Tue Jul 20 10:41:28 +0000 2021",
+            "favourites_count": 1583,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2918,
+            "media_count": 226,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1417676905780682754\/zdqiyUsE_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1417676905780682754\/zdqiyUsE_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1417434402297057280\/1626842165",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1512370896060968966
+            ],
+            "pinned_tweet_ids_str": [
+                "1512370896060968966"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "disabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1417434402297057280"
+    },
+    {
+        "user": {
+            "id": 1666156453,
+            "id_str": "1666156453",
+            "name": "English Aula",
+            "screen_name": "EnglishAula",
+            "location": null,
+            "profile_location": null,
+            "description": "Enjoy learning English!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15417,
+            "fast_followers_count": 0,
+            "normal_followers_count": 15417,
+            "friends_count": 99,
+            "listed_count": 242,
+            "created_at": "Mon Aug 12 22:06:53 +0000 2013",
+            "favourites_count": 1166,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3111,
+            "media_count": 183,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/511996242688106496\/co46CQBl_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/511996242688106496\/co46CQBl_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1666156453\/1405022427",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1426913944413868040
+            ],
+            "pinned_tweet_ids_str": [
+                "1426913944413868040"
+            ],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1666156453"
+    },
+    {
+        "user": {
+            "id": 66646138,
+            "id_str": "66646138",
+            "name": "Grammar Monster",
+            "screen_name": "grammarmonster",
+            "location": "England, United Kingdom",
+            "profile_location": null,
+            "description": "Grammar terms, tips, and tests",
+            "url": "https:\/\/www.grammar-monster.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/www.grammar-monster.com",
+                            "expanded_url": "https:\/\/www.grammar-monster.com",
+                            "display_url": "grammar-monster.com",
+                            "indices": [
+                                0,
+                                31
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20727,
+            "fast_followers_count": 0,
+            "normal_followers_count": 20727,
+            "friends_count": 27,
+            "listed_count": 490,
+            "created_at": "Tue Aug 18 10:14:42 +0000 2009",
+            "favourites_count": 1415,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4598,
+            "media_count": 938,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "992222",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1441710894191456257\/ayXJdyiD_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1441710894191456257\/ayXJdyiD_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/66646138\/1636627496",
+            "profile_link_color": "992222",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EBECF5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [],
+            "pinned_tweet_ids_str": [],
+            "has_custom_timelines": false,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "66646138"
+    },
+    {
+        "user": {
+            "id": 149815269,
+            "id_str": "149815269",
+            "name": "penerbit diva press",
+            "screen_name": "divapress01",
+            "location": "Yogyakarta, Indonesia",
+            "profile_location": null,
+            "description": "pesan buku: https:\/\/t.co\/lihflLkOro",
+            "url": "http:\/\/blogdivapress.com",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http:\/\/blogdivapress.com",
+                            "expanded_url": "http:\/\/blogdivapress.com",
+                            "display_url": "blogdivapress.com",
+                            "indices": [
+                                0,
+                                24
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/lihflLkOro",
+                            "expanded_url": "http:\/\/linktr.ee\/divapress",
+                            "display_url": "linktr.ee\/divapress",
+                            "indices": [
+                                12,
+                                35
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 39378,
+            "fast_followers_count": 0,
+            "normal_followers_count": 39378,
+            "friends_count": 2044,
+            "listed_count": 124,
+            "created_at": "Sun May 30 08:49:25 +0000 2010",
+            "favourites_count": 2406,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 126867,
+            "media_count": 15044,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1486203993802305544\/Hp3MrvG1_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1486203993802305544\/Hp3MrvG1_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/149815269\/1631760114",
+            "profile_link_color": "FA0F0F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "373737",
+            "profile_text_color": "FDB31C",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1509390574339915776
+            ],
+            "pinned_tweet_ids_str": [
+                "1509390574339915776"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "149815269"
+    },
+    {
+        "user": {
+            "id": 1521159020,
+            "id_str": "1521159020",
+            "name": "Magdalene",
+            "screen_name": "magdaleneid",
+            "location": "Jakarta",
+            "profile_location": null,
+            "description": "Supporting diversity, empowering minds. | Any inquiry email to editor@magdalene.co",
+            "url": "https:\/\/magdalene.co\/",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/magdalene.co\/",
+                            "expanded_url": "https:\/\/magdalene.co\/",
+                            "display_url": "magdalene.co",
+                            "indices": [
+                                0,
+                                21
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 72324,
+            "fast_followers_count": 0,
+            "normal_followers_count": 72324,
+            "friends_count": 335,
+            "listed_count": 293,
+            "created_at": "Sun Jun 16 04:16:07 +0000 2013",
+            "favourites_count": 5047,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 61158,
+            "media_count": 16814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1120615342215061504\/l9pCWoB0_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1120615342215061504\/l9pCWoB0_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1521159020\/1558101393",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "pinned_tweet_ids": [
+                1224297506625875968
+            ],
+            "pinned_tweet_ids_str": [
+                "1224297506625875968"
+            ],
+            "has_custom_timelines": true,
+            "can_dm": true,
+            "can_media_tag": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "want_retweets": false,
+            "advertiser_account_type": "none",
+            "advertiser_account_service_levels": [],
+            "analytics_type": "enabled",
+            "profile_interstitial_type": "",
+            "business_profile_state": "none",
+            "translator_type": "none",
+            "withheld_in_countries": [],
+            "followed_by": false,
+            "require_some_consent": false
+        },
+        "user_id": "1521159020"
+    }
+]
